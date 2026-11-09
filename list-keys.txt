@@ -1,2 +1,1 @@
-"ZXH-18JZ-919", "11-11-2026", "22.23wib", "b28a27860aff2a3d"
-"OLEM-29DJ-828", "04-08-2029", "23.03wib", "b28a27860aff2a3d"
+"OLEM-29DJ-828", "04-08-2029", "23.03wib", "b28a27860aff2a3d BAN" "Jangan Menjual Mod Selain Developer Resmi"
