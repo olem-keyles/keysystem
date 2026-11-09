@@ -1,1 +1,1 @@
-"OLEM-29DJ-828", "04-08-2029", "23.03wib", "b28a27860aff2a3d BAN" "Jangan Menjual Mod Selain Developer Resmi"
+"OLEM-29DJ-828", "04-08-2029", "23.03wib", "b28a27860aff2a3d"
