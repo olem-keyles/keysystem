@@ -10,9 +10,9 @@
 
 "AJIR-GANTENG", "13-12-2026", "14.35wib", "583f4cc121b46518"
 
-"OLEM-BS7-DIS", "12-11-2026", "21.25wib", "793bc5c55ff6957d"
+"OLEM-BS7-DIS", "12-11-2027", "21.25wib", "793bc5c55ff6957d"
 
-"OLEM-BOU-28D", "15-11-2026", "13.25wib", "be944cacfd57bf56"
+"OLEM-BOU-28D", "10-11-2026", "13.25wib", "be944cacfd57bf56"
 
 "OLEM-LS8-0XZ", "13-11-2026", "05.28wib", "cec50f058dcf456a"
 
@@ -27,3 +27,5 @@
 "OLEM-IOJ-A9P", "14-11-2026", "07.28wib", "6944aabd385bf998"
 
 "OLEM-ZXJ-OPS", "14-11-2026", "07.45wib", "48d9767f78a258ed"
+
+"OLEM-90P-HJI", "15-11-2026", "00.41wib", "0349f2f9ba39b3ef"
