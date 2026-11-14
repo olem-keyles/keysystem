@@ -14,9 +14,7 @@
 
 "OLEM-BOU-28D", "10-11-2027", "13.25wib", "be944cacfd57bf56"
 
-"OLEM-LS8-0XZ", "13-11-2026", "05.28wib", "cec50f058dcf456a"
-
-"OLEM-KOP-DJK", "15-11-2026", "01.32wib", "a886e176bf751a99"
+"OLEM-KOP-DJK", "15-11-2026", "01.32wib", "cec50f058dcf456a"
 
 "OLEM-29H-1SB", "14-11-2026", "20.40wib", "7ffcd4d6efc81fd3"
 
