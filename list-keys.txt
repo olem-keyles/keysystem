@@ -16,7 +16,7 @@
 
 "OLEM-KOP-DJK", "15-11-2026", "01.32wib", "cec50f058dcf456a"
 
-"OLEM-29H-1SB", "14-11-2026", "20.40wib", "7ffcd4d6efc81fd3"
+"OLEM-29H-1SB", "01-12-2026", "20.40wib", "7ffcd4d6efc81fd3"
 
 "OLEM-2XJ-A9P", "14-11-2026", "06.33wib", "9fc91f982d673aba"
 
