@@ -12,6 +12,8 @@
 
 "OLEM-BS7-DIS", "12-11-2026", "21.25wib", "793bc5c55ff6957d"
 
+"OLEM-KS7-DIS", "16-11-2026", "23.11wib", "8d23d87748c82e2d"
+
 "OLEM-BOU-28D", "10-11-2027", "13.25wib", "be944cacfd57bf56"
 
 "OLEM-KOP-DJK", "15-11-2026", "01.32wib", "cec50f058dcf456a"
