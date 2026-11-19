@@ -59,3 +59,5 @@
 "OLEM-PSJ-KAK", 20-11-2026", "00.53wib", "bd54800e617ade05"
 
 "OLEM-PSJ-KAP", 20-11-2026", "18.15wib", "386eec684e2b428c"
+
+"OLEM-PKR-KAP", 20-11-2026", "07.39wib", "1b256c309cdeccf7"
